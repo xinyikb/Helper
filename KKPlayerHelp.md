@@ -26,7 +26,7 @@
    - **m3u8 格式**：`https://xxxx.xxx.xxx/xxx/xx.m3u8`
    - **XML 格式**：`https://xxxx.xxx.xxx/xxx/xxxx.xml`
    - **SMB 协议**：`smb://xxxx.xxx.xxx/xxx/xxxx`
-   - **CMS 采集网址**：如 `https://aosikazy.com/api.php/provide/vod/`
+   - **CMS 采集网址**：如 `https://json02.heimuer.xyz/api.php/provide/vod/`
 
 ---
 
