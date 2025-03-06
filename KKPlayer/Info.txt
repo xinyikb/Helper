@@ -1,4 +1,10 @@
-https://duckduckgo.com uck Duck Go]
+https://github.com/xinyikb/Helper/blob/main/KKPlayerHelp.md How to add video source?
+https://github.com/xinyikb/Helper/blob/main/KKPlayerHelp.md How to auto category?
+This application makes use of the following third party libraries:
+https://github.com/amosavian/AMSMB2 amosavian/AMSMB2
+https://github.com/SDWebImage/SDWebImage SDWebImage/SDWebImage
+https://github.com/SDWebImage/SDWebImageSwiftUI SDWebImage/SDWebImageSwiftUI
+https://github.com/SnapKit/SnapKit SnapKit/SnapKit
+https://github.com/scinfu/SwiftSoup scinfu/SwiftSoup
 
-https://duckduckgo.com [Duck Duck Go]11
-https://duckduckgo.com [Duck Duck Go]113
+
